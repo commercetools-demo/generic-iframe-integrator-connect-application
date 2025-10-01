@@ -28,7 +28,7 @@ const config = {
   additionalEnv: {
     externalUrl: '${env:EXTERNAL_URL}',
   },
-  icon: '${path:@commercetools-frontend/assets/application-icons/rocket.svg}',
+  icon: '${path:@commercetools-frontend/assets/application-icons/bag.svg}',
   mainMenuLink: {
     defaultLabel: '${env:EXTERNAL_LABEL_TEXT}',
     labelAllLocales: [],
