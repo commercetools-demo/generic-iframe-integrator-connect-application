@@ -1,0 +1,14 @@
+node_modules
+coverage
+.terraform
+*.tfstate*
+*.tfvars
+
+!.env
+.env.local
+
+.DS_Store
+.vscode
+.idea
+build/
+public/
