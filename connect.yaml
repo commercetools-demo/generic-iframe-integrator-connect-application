@@ -1,5 +1,5 @@
 deployAs:
-  - name: merchant-center-custom-application
+  - name: generic-iframe-integrator
     applicationType: merchant-center-custom-application
     configuration:
       standardConfiguration:

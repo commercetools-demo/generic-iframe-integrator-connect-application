@@ -12,3 +12,4 @@ coverage
 .idea
 build/
 public/
+.connect
